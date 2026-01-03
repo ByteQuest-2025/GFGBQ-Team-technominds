@@ -1,4 +1,4 @@
-## 📄 README.md – Detailed Guidelines & Template
+## 📄 README.md – Detailed Guidelines
 
 ## Problem Statement
 Voice-based scams are increasing rapidly, where fraudsters manipulate users during live phone calls using impersonation, urgency, and emotional pressure. Vulnerable groups such as elderly individuals, digitally unaware users, and first-time internet adopters are most affected. Existing fraud detection systems work post-transaction or rely on text-based signals, providing little to no protection during live calls where most financial and emotional damage occurs. This project addresses this problem by developing an AI-powered, real-time audio fraud detection system that monitors live phone calls, identifies scam patterns, and alerts users immediately to prevent financial and emotional harm.
