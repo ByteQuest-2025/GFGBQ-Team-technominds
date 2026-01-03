@@ -19,8 +19,7 @@ Team TechnoMinds
 
 ## PPT Link
 
-📊 https://drive.google.com/your-ppt-link
-
+📊 https://drive.google.com/file/d/150yBjQFfEYRVym1a3hvFY7SoZP7hJZ4S/view?usp=drive_link
 
 ## 📌 Project Overview
 This project is a web-based application that leverages AI to detect scam calls in real time. The system analyzes live audio (from microphone or uploaded recordings) to detect indicators such as impersonation, urgency, emotional manipulation, authority pressure, repeated OTP/money requests, and suspicious voice patterns (tone, stress, pitch). Users receive immediate alerts and guidance during calls, helping prevent fraud before damage occurs. The application is especially designed for elderly and digitally unaware users with a simple, user-friendly interface.
