@@ -11,7 +11,7 @@ Team TechnoMinds
 
 ## Deployed Link
 
-🔗 https://your-app-link.com
+🔗 https://technominds-five.vercel.app/
 
 ## Demonstration Video Link
 
