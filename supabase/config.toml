@@ -1,0 +1,4 @@
+project_id = "zbvdhxpvpfjtpnbaaeiy"
+
+[functions.analyze-scam]
+verify_jwt = false
