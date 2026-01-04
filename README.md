@@ -34,55 +34,32 @@ This project is a web-based application that leverages AI to detect scam calls i
 
 ## Setup and Installation Instructions
 
-   # Prerequisites:
+   ## Prerequisites:
    - Node.js (if using React frontend)
    - Browser with microphone access
 
-   Steps to Run Locally:
+   ## Steps to Run Locally:
 
-Clone the Repository
+   1. **Clone the Repository** 
+       ```bash
+      git clone https://github.com/your-repo-name.git
+      cd your-repo-name
 
-git clone https://github.com/your-repo-name.git
-cd your-repo-name
+   2. **Install dependencies**
+         ```bash
+      npm install
+      # or
+      yarn install
 
+   3. **Run the App**
+      ```bash
+      npm run dev
+   Open the local URL shown in console (usually http://localhost:5173 or similar)
 
-Install dependencies (if using npm/yarn build)
-
-npm install
-# or
-yarn install
-
-
-Run the App
-
-For pure HTML/CSS/JS/TypeScript:
-
-Open index.html in your browser
-
-Make sure the JSON config file is in the correct folder
-
-Microphone access must be allowed for live detection
-
-If using a build tool (Vite / Parcel / Webpack / Node):
-
-npm run dev
-
-
-Open the local URL shown in console (usually http://localhost:5173 or similar)
-
-Test the App
-
-Click “Start Listening” for live audio
-
-Or upload a sample audio file (scam_call_sample.wav / normal_call_sample.wav)
-
-Check the scam risk score and alerts
-
-## Access the Web App:
-
-Open http://localhost:3000 (React) in your browser
-
-Allow microphone access when prompted
+  4. **Test the App**
+  - Click “Start Listening” for live audio
+  - Or upload a sample audio file (scam_call_sample.wav / normal_call_sample.wav)
+  - Check the scam risk score and alerts
 
 ## Usage Instructions
 1. Open the web app in your browser
@@ -94,16 +71,17 @@ Allow microphone access when prompted
 
 ## Screenshots
 
-Home Page:
+**Home Page**:
 
+![Screenshot_4-1-2026_95859_technominds-five vercel app](https://github.com/user-attachments/assets/61d709a4-2ab5-4822-8865-2b2e4d6ffa20)
 
-Live Audio Detection:
+**History of Audio Detection**:
 
+![Screenshot_4-1-2026_10147_technominds-five vercel app](https://github.com/user-attachments/assets/1e9b5ec0-e99b-4e7a-8375-86b2d7e0972d)
 
-Scam Alert & Guidance:
+**Scam Alert & Guidance**:
 
-
-Dashboard / Risk Score:
+![Screenshot_4-1-2026_1039_technominds-five vercel app](https://github.com/user-attachments/assets/07a41330-9d52-4f9b-bd0f-bd392e603d96)
 
 ## Technology Stack
 -  Frontend: HTML, CSS, JavaScript, TypeScript, Tailwind CSS
