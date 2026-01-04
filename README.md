@@ -15,7 +15,7 @@ Team TechnoMinds
 
 ## Demonstration Video Link
 
-🎥 https://drive.google.com/your-demo-video-link
+🎥 https://drive.google.com/file/d/1M-CerTNroK5QFsr20GZe81RwNSf6yA0-/view?usp=drive_link
 
 ## PPT Link
 
